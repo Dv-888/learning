@@ -3,5 +3,5 @@ print("Enjoy using Python")
 
 
 for i in range(5):
-  print("bhai hai bhai hai");
+  print("bhai hai bhai nhi hai");
   
